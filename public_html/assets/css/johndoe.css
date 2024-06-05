@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: grey;
   text-decoration: none;
   background-color: transparent;
 }
@@ -516,7 +516,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #FC8BC0;
+  color: grey;
   word-break: break-word;
 }
 
